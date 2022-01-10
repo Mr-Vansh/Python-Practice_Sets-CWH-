@@ -1,0 +1,6 @@
+a = input("Enter any number : ")
+print(type(a))
+print("Initially the output will be in string format because of default input type")
+new = int(a)
+print("Converted the output type, Your new output will be :")
+print(type(new))
